@@ -4,7 +4,7 @@
 body {
   margin-top:20px;
   font-family: Osaka;
-  background-color: ghostwhite;
+  background-color: #b0afc4;
   color: inherit;
 }
 
@@ -33,6 +33,7 @@ a {
 #container {
   max-width:80%;
   margin: auto;
+  
 }
 
 /*****************************************
@@ -77,5 +78,5 @@ h1 {
 }
 
 .price {
-  color: orange;
+  color: white;
 }
